@@ -1,17 +1,16 @@
-<Bug_id: "48">
-<Title: "Dotted lines disappeared at the upper and bottom edge of the widget at settings: font size max, screen zoom min">
-<Severity: "major">
-<Priority: "medium">
-<Environment: "Android 11.0 Pixel 3a">
-<Precondition: "Clear phone screen">
- <STR> 
+<bug>
+    <ID>48</ID>,
+    <Summary>Dotted lines disappeared at the upper and bottom edge of the widget at settings: font size max, screen zoom min</Summary>,
+  <STR> 
 <Open an App>
 <Tap the botton ADD WIDGET>
 <Hide an App>
 <Hold the widget icon until there are sliders to resize the widget>
 <Resize the  widget up to proportions dp=2.3375 W: 68/127 H:390/591 Scr=462 l=1*4>
- </STR>
-<AR: "Dotted lines disappeare at the upper and bottom edge of the widget">
-<ER: "There are dotted lines on all edges of the widget">
-<Attachments: "https://drive.google.com/file/d/15QtRUSYWKIeQ3bjNEe6GNyAO_tjLw4xv/view?usp=sharing">
-</Bug_id: "48">
+ </STR>,
+    <Actual_result>Dotted lines disappeare at the upper and bottom edge of the widget</Actual_result>,
+    <Expected_result>There are dotted lines on all edges of the widget</Expected_result>,
+    <Severity>Major</Severity>,
+    <Priority>Medium</Priority>,
+    <Attachments>https://drive.google.com/file/d/15QtRUSYWKIeQ3bjNEe6GNyAO_tjLw4xv/view?usp=sharing</Attachments>
+</bug>
