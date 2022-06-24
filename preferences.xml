@@ -1,13 +1,13 @@
 <preferences>
 
-  <film="I origin">
+  <Favorite_movie>I origin</Favorite_movie>
 
-  <soap opera="Billions">
+  <soap opera>Billions</soap opera>
 
-  <dish="syrniki">
+  <dish>=syrniki</dish>
 
-  <season="spring">
+  <season>spring</season>
 
- <country="Japan">
+ <country>Japan</country>
 
 </preferences>
